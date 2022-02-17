@@ -1,5 +1,3 @@
-# darknet
-system ana
 
 # darknet
 system ana
@@ -18,4 +16,4 @@ Instalación:
 4. haz comprobaciones
 5. Ana está listo para ti
 
-visita nuestro sitio web para más información
+visita nuestro sitio web para más información: https://www.faidu.com.mx/
